@@ -10,4 +10,4 @@ Visualizing phonemes encompasses techniques like time series representation, spe
 - Scipy
 
 ## Acknowledgements
-The phoneme dataset used in this project is available on Kaggle: [https://www.kaggle.com/datasets/umashukla/us-english-phonetic-pronunciation-audio?select=Actor_01_00_Blake_Chang]
+The phoneme dataset used in this project is available on Kaggle: https://www.kaggle.com/datasets/umashukla/us-english-phonetic-pronunciation-audio?select=Actor_01_00_Blake_Chang
