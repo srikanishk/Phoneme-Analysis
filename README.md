@@ -1,4 +1,4 @@
-# Visualization of Phonemes - Time Series Representation, Spectrogram and DFT Magnitude Spectrum
+# Visualization of Phonemes - Time Series Representation, Spectrogram, and DFT Magnitude Spectrum
 
 ## Overview
 Visualizing phonemes encompasses techniques like time series representation, spectrograms, and DFT magnitude spectrum. These visualizations offer insights into the temporal and spectral characteristics of speech sounds.  Time series plots show how the amplitude of a signal changes over time, while spectrograms provide a detailed view of its frequency content over time. DFT magnitude spectra reveal the amplitude of different frequency components in the signal.
